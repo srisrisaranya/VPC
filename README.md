@@ -1,6 +1,6 @@
-
 ## Ex.4 Deployment and configuration of a Private Cloud  in AWS
-
+# Name: Saranya S
+# Register Number: 212223110044
 ## Aim:
 To set up of a Private Cloud  in AWS.
 
